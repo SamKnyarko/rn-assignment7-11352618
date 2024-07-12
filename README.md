@@ -105,4 +105,4 @@ This project demonstrates a simple yet effective implementation of a shopping ap
 
 ---
 
-Feel free to adjust the paths to the images, repository links, and any other specific details as necessary for your project.
+
